@@ -1,0 +1,4 @@
+Length = int(input('What length is your painting?'))
+Height = Length/1.618
+print ('The height of your painting should be')
+print (Height)
